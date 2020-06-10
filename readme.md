@@ -56,3 +56,8 @@ webpack --config webpack.dev.js
 - 模块化代码中  ./ 代表当亲js所在目录
 - 在路径处理中  ./ 代表node运行目录
 - __dirname 当前js文件目录
+
+## 插件
+html-webpack-plugin
+clean-webpack-plugin
+copy-wbpack-plugin
