@@ -1,0 +1,1 @@
+{"version":3,"sources":["source.postcss"],"names":[],"mappings":"AAAA;EACE,UAAU;AACZ;AACA;EACE,UAAU;AACZ;AAFA;EACE,UAAU;AACZ;AAFA;EACE,UAAU;AACZ;AAFA;EACE,UAAU;AACZ","file":"out.css","sourcesContent":[".main{\r\n  color: red;\r\n}\r\n::placeholder{\r\n  color: red;\r\n}"]}
