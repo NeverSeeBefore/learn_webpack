@@ -85,7 +85,7 @@ copy-wbpack-plugin
 - css in js
 - css 预编译器
 
-- styles-loader
+- style-loader
   将 css 文件转换并插入 header 中
 - css-loader
   将 css 文件类名转换成唯一的，并输出映射表

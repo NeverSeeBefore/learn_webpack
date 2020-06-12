@@ -1,0 +1,25 @@
+@import "./colors.less";
+
+@red: #acd;
+@width: 20px;
+@height: 30px;
+
+.bordered{
+  border-top: dotted 1px solid;
+}
+.redcolor {
+  color: @red;
+  .bordered();
+  .logo{
+    width: 30px;
+    height: @width;
+    .in-logo{
+      width: 10px;
+      height: @height;
+    }
+  }
+}
+.test{
+  .center();
+  color: @danger;
+}
