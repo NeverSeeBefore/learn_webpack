@@ -136,3 +136,8 @@ div{
 
 
 ## wenpack中使用postcss
+
+## 抽离css文件
+mini-css-extract-plugin
+  - 提供plugin  负责生成css文件
+  - 提供loader  记录生成的文件内容，同时导出开启css-module后的对象
